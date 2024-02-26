@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.6.3</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<dependencies>
@@ -65,7 +65,7 @@
 		<dependency>
 			<groupId>org.junit.platform</groupId>
 			<artifactId>junit-platform-commons</artifactId>
-			<version>1.7.0</version>
+			<version>1.10.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
