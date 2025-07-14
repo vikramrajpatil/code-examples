@@ -8,7 +8,7 @@
         <maven.compiler.target>11</maven.compiler.target>
         
 		<junit-jupiter-params.version>5.9.2</junit-jupiter-params.version>
-		<commons-lang3.version>3.12.0</commons-lang3.version>
+		<commons-lang3.version>3.18.0</commons-lang3.version>
 		<assertj-core>3.24.1</assertj-core>
 	</properties>
     
